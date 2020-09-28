@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.pn{
+    color: blue;
+}
+.half-width{
+    width: 40% ;
+ 
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-bannar{
+    background-image: url("img/p5.png");
+}

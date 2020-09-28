@@ -9,14 +9,13 @@ h1{
     color: blue;
 }
 .half-width{
-    width: 40% ;
- 
+    width: 40%;
     margin-left: 5%;
     padding: 2%;
 }
 .half-width img{
     width: 100%;
 }
-.top-bannar{
+.half-banner{
     background-image: url("img/p5.png");
 }

@@ -10,6 +10,7 @@ h1{
 }
 .half-width{
     width: 40%;
+    float: left;
     margin-left: 5%;
     padding: 2%;
 }
@@ -18,4 +19,56 @@ h1{
 }
 .half-banner{
     background-image: url("img/p5.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 50px;
+}
+.link-button{
+    text-decoration:none;
+    background-image:linear-gradient(45deg, red,blue);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: whitesmoke;
+    font-weight: 800;
+}
+.dream-area{
+    background-image: url("img/p6.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+p{
+    color: teal;
+}
+.lal-nil{
+    margin-left: 100px;
+    color: rgb(0, 255, 106);
+}
+.s-p{
+    box-shadow: 10px 10px 30px gray;
+    rasious:5px;
+    height: 80%;
+}
+.experience-area{
+    background-image: url("img/p7.png");
+    background-repeat: no-repeat;
+    background-position:left;
+}
+#ppq{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, orange);
+    border-image-slice: 1;
+    background-color: white;
+}
+#ppy{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    color: chartreuse;
+    font-size: 20px;
+    font-weight: 600;
 }
